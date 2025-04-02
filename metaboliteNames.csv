@@ -1,0 +1,320 @@
+metabolite_name;Human.Metabolome.Database;KEGG;InChIKey;Formula;Molecular.Weight;RT..min.;mzCloud.Best.Match;mzCloud.Library.Match..Autoprocessed;mzCloud.Library.Match..Reference;MS2
+(+)-Calycanthine;(+)-Calycanthine;HMDB0029561;C10573;XSYCDVWYEVUDKQ-UHFFFAOYSA-N;C22 H26 N4;346.21418;11.236;NA;No matches found;No matches found;No MS2
+(±)-2,6-Dimethyl-5-heptenal;(±)-2,6-Dimethyl-5-heptenal;HMDB0031834;NA;YGFGZTXGYTUXBA-UHFFFAOYSA-N;C6 H14 S2;150.05422;1.421;NA;No matches found;No matches found;No MS2
+(±)-2-Hydroxy-4-(methylthio)butanoic acid;(±)-2-Hydroxy-4-(methylthio)butanoic acid;HMDB0037115;NA;ONFOSYPQQXJWGS-UHFFFAOYSA-N;C5 H10 O3 S;150.03491;5.43;86.9;No matches found;Single match found;DDA for preferred ion
+(±)-Camphoric acid;(±)-Camphoric acid;HMDB0034491;NA;LSPHULWDVZXLIL-UHFFFAOYSA-N;C10 H14 O4;198.08918;9.857;69.3;No matches found;Single match found;DDA for preferred ion
+(±)-Furaneol;(±)-Furaneol;HMDB0040594;NA;INAXVXBDKKUCGI-UHFFFAOYSA-N;C6 H8 O3;128.0473;6.948;NA;No matches found;No matches found;No MS2
+(2S)-2-[(2-Methyl-2-sulfanylpropanoyl)amino]-3-sulfanylpropanoic acid;(2S)-2-[(2-Methyl-2-sulfanylpropanoyl)amino]-3-sulfanylpropanoic acid;NA;NA;VUAFHZCUKUDDBC-SCSAIBSYSA-N;C7 H13 N O3 S2;223.03362;7.777;NA;No matches found;No matches found;DDA for preferred ion
+(R)-3-Hydroxy myristic acid;(R)-3-Hydroxy myristic acid;NA;NA;ATRNZOYKSNPPBF-CYBMUJFWSA-N;C14 H28 O3;244.20369;13.145;92.5;No matches found;Multiple matches found;DDA for preferred ion
+(R)-3-hydroxybutyrylcarnitine;(R)-3-hydroxybutyrylcarnitine;HMDB0062735;NA;UEFRDQSMQXDWTO-YGPZHTELSA-N;C11 H21 N O5;247.14173;1.792;NA;No matches found;No matches found;No MS2
+(R)-3-Hydroxydecanoic acid;(R)-3-Hydroxydecanoic acid;HMDB0010725;NA;FYSSBMZUBSBFJL-SECBINFHSA-N;C10 H20 O3;188.14122;11.839;89.2;No matches found;Multiple matches found;DDA for preferred ion
+(S)-10,16-Dihydroxyhexadecanoic acid;(S)-10,16-Dihydroxyhexadecanoic acid;HMDB0037798;C08285;VJZBXAQGWLMYMS-UHFFFAOYSA-N;C16 H32 O4;288.23023;12.004;NA;No matches found;No matches found;DDA for preferred ion
+(S)-9-Hydroxy-10-undecenoic acid;(S)-9-Hydroxy-10-undecenoic acid;HMDB0032662;NA;CJUFNYIRKDOQMC-UHFFFAOYSA-N;C11 H20 O3;200.14127;11.968;NA;No matches found;No matches found;No MS2
+1-(4-Hydroxy-3,5-dimethoxyphenyl)-7-(4-hydroxy-3-methoxyphenyl)-3,5-heptanediol;1-(4-Hydroxy-3,5-dimethoxyphenyl)-7-(4-hydroxy-3-methoxyphenyl)-3,5-heptanediol;HMDB0041091;NA;UEKHBUNMFZUBFK-UHFFFAOYSA-N;C22 H30 O7;406.19889;11.462;NA;No matches found;No matches found;No MS2
+1-[(5-Amino-5-carboxypentyl)amino]-1-deoxyfructose;1-[(5-Amino-5-carboxypentyl)amino]-1-deoxyfructose;HMDB0034879;NA;ZAWLGBRDVQURAK-UHFFFAOYSA-N;C12 H24 N2 O7;308.15807;0.753;NA;No matches found;No matches found;No MS2
+10-HDA;10-HDA;NA;NA;QHBZHVUGQROELI-SOFGYWHQSA-N;C10 H18 O3;186.12554;11.499;79.4;No matches found;Single match found;DDA for preferred ion
+10-Nitrolinoleic acid;10-Nitrolinoleic acid;HMDB0005049;C13800 ;LELVHAQTWXTCLY-XYWKCAQWSA-N;C18 H31 N O4;325.22536;13.733;77.9;No matches found;Single match found;DDA for preferred ion
+11,12-Epoxyeicosatrienoic acid;11,12-Epoxyeicosatrienoic acid;HMDB0004673;NA;DXOYQVHGIODESM-KROJNAHFSA-N;C20 H32 O3;320.23504;13.202;90.7;Multiple matches found;Multiple matches found;DDA for preferred ion
+11-Aminoundecanoic acid;11-Aminoundecanoic acid;NA;C19325;GUOSQNAUYHMCRU-UHFFFAOYSA-N;C11 H23 N O2;201.17281;1.633;NA;No matches found;No matches found;No MS2
+11-nor-9-carboxy-Delta(9)-tetrahydrocannabinol;11-nor-9-carboxy-Delta(9)-tetrahydrocannabinol;HMDB0062770;NA;YOVRGSHRZRJTLZ-UHFFFAOYSA-N;C21 H28 O4;344.19881;11.838;NA;No matches found;No matches found;No MS2
+12(S)-HPETE;12(S)-HPETE;HMDB0004243;NA;ZIOZYRSDNLNNNJ-LQWMCKPYSA-N;C20 H32 O4;318.21938;12.873;82.2;Multiple matches found;Multiple matches found;DDA for preferred ion
+12(S)-Leukotriene B4;12(S)-Leukotriene B4;HMDB0005089;C04853 ;VNYSSYRCGWBHLG-CBBLYLIKSA-N;C20 H32 O4;336.23025;12.105;74.3;Multiple matches found;Multiple matches found;DDA for preferred ion
+12,13-DiHODE;12,13-DiHODE;HMDB0010201;NA;RGRKFKRAFZJQMS-OOHFSOINSA-N;C18 H34 O4;314.24589;12.292;91.4;Multiple matches found;Multiple matches found;DDA for preferred ion
+12-Hydroxydodecanoic acid;12-Hydroxydodecanoic acid;HMDB0002059;C08317;ZDHCZVWCTKTBRY-UHFFFAOYSA-N;C12 H24 O3;216.17237;12.375;NA;No matches found;No matches found;DDA for preferred ion
+12-Hydroxystearic acid;12-Hydroxystearic acid;HMDB0061706;NA;ULQISTXYYBZJSJ-UHFFFAOYSA-N;C18 H36 O3;300.26648;13.559;NA;No matches found;No matches found;DDA for preferred ion
+13-HODE;13-HODE;HMDB0004667;NA;HNICUWMFWZBIFP-IRQZEAMPSA-N;C18 H32 O3;296.23494;13.445;79;Multiple matches found;Multiple matches found;DDA for preferred ion
+16-Hydroxy hexadecanoic acid;16-Hydroxy hexadecanoic acid;HMDB0006294;C18218;UGAGPNKCDRTDHP-UHFFFAOYSA-N;C16 H32 O3;272.2353;13.9;83.8;No matches found;Single match found;DDA for preferred ion
+19,20-DiHDPA;19,20-DiHDPA;HMDB0010214;NA;FFXKPSNQCPNORO-MBYQGORISA-N;C22 H34 O4;362.24591;12.436;88.7;Multiple matches found;Multiple matches found;DDA for preferred ion
+1-Aminocyclopropanecarboxylic acid;1-Aminocyclopropanecarboxylic acid;HMDB0036458;C01234;PAJPWUMXBYXFCZ-UHFFFAOYSA-N;C4 H7 N O2;101.04744;0.909;NA;No matches found;No matches found;No MS2
+1-Arachidonoyl-sn-glycero-3-phosphocholine;1-Arachidonoyl-sn-glycero-3-phosphocholine;HMDB0010395;NA;LAXQYRRMGGEGOH-JXRLJXCWSA-N;C28 H50 N O7 P;543.33185;12.669;NA;No matches found;No matches found;DDA for preferred ion
+1-Hexadecanoyl-sn-glycero-3-phosphoethanolamine;1-Hexadecanoyl-sn-glycero-3-phosphoethanolamine;HMDB0011503;NA;YVYMBNSKXOXSKW-HXUWFJFHSA-N;C21 H44 N O7 P;453.28588;12.898;NA;No matches found;No matches found;DDA for preferred ion
+1-Methylhistamine;1-Methylhistamine;HMDB0000898;C05127;FHQDWPCFSJMNCT-UHFFFAOYSA-N;C6 H11 N3;125.09525;0.73;NA;No matches found;No matches found;No MS2
+1-Octadecanoyl-sn-glycero-3-phosphoethanolamine;1-Octadecanoyl-sn-glycero-3-phosphoethanolamine;HMDB0011130;NA;BBYWOYAFBUOUFP-JOCHJYFZSA-N;C23 H48 N O7 P;481.31658;12.577;NA;No matches found;No matches found;DDA for preferred ion
+2-Dodecylbenzenesulfonic acid;2-Dodecylbenzenesulfonic acid;HMDB0031031;NA;WBIQQQGBSDOWNP-UHFFFAOYSA-N;C18 H30 O3 S;326.19063;10.132;NA;No matches found;No matches found;No MS2
+2-Ethyl-4,5-dimethylthiazole;2-Ethyl-4,5-dimethylthiazole;HMDB0040068;NA;BVOKJOZBJOWZNJ-UHFFFAOYSA-N;C7 H11 N O;125.08402;1.461;NA;No matches found;No matches found;No MS2
+2-Furoic acid;2-Furoic acid;HMDB0000617;C01546;SMNDYUVBFMFKNZ-UHFFFAOYSA-N;C5 H4 O3;112.01596;1.533;80;No matches found;Single match found;DDA for preferred ion
+2-Hexenoylcarnitine;2-Hexenoylcarnitine;HMDB0013161;NA;JUAQYRSUSCWTQK-BQYQJAHWSA-N;C13 H23 N O4;257.16279;10.423;NA;No matches found;No matches found;No MS2
+2-Keto-6-acetamidocaproate;2-Keto-6-acetamidocaproate;HMDB0012150;C05548;NGCXIFFZXAZRAF-UHFFFAOYSA-N;C8 H13 N O4;187.08431;1.415;NA;No matches found;No matches found;No MS2
+2-Ketobutyric acid;2-Ketobutyric acid;HMDB0000005;C00109 ;TYEYBOSBBBHJIV-UHFFFAOYSA-N;C4 H6 O3;102.03161;0.957;NA;No matches found;No matches found;DDA for other ion
+2-Methyl-5-nitroaniline;2-Methyl-5-nitroaniline;NA;NA;DSBIJCMXAIKKKI-UHFFFAOYSA-N;C7 H8 N2 O2;152.0585;2.692;64.4;No matches found;Single match found;DDA for preferred ion
+2-Octanamidoacetic acid;2-Octanamidoacetic acid;HMDB0000832;NA;SAVLIIGUQOSOEP-UHFFFAOYSA-N;C10 H19 N O3;201.13647;10.953;NA;No matches found;No matches found;DDA for preferred ion
+2-Oxoglutaric acid;2-Oxoglutaric acid;HMDB0000005;C00109 ;TYEYBOSBBBHJIV-UHFFFAOYSA-N;C5 H6 O5;146.02145;1.424;96.1;No matches found;Single match found;DDA for preferred ion
+2-tert-Butyl-1,4-benzenediol;2-tert-Butyl-1,4-benzenediol;HMDB0032062;NA;BGNXCDMCOKJUMV-UHFFFAOYSA-N;C10 H14 O2;166.0993;8.851;NA;No matches found;No matches found;No MS2
+2-Tetrahydrothiopheneacetic acid;2-Tetrahydrothiopheneacetic acid;NA;C11072;YNFYCBDMMKUYKX-UHFFFAOYSA-N;C6 H10 O2 S;146.03998;2.461;NA;No matches found;No matches found;No MS2
+3, 5-Tetradecadiencarnitine;3, 5-Tetradecadiencarnitine;HMDB0013331;NA;IXOHTRSFILEKHO-NKBLVAAJSA-N;C21 H37 N O4;367.27199;11.362;NA;No matches found;No matches found;No MS2
+3,5-Dihydroxybenzoic acid;3,5-Dihydroxybenzoic acid;HMDB0013677;NA;UYEMGAFJOZZIFP-UHFFFAOYSA-N;C7 H6 O4;154.02657;8.111;88.2;No matches found;Multiple matches found;DDA for preferred ion
+3-Carboxy-4-methyl-5-propyl-2-furanpropionate;3-Carboxy-4-methyl-5-propyl-2-furanpropionate;NA;NA;WMCQWXZMVIETAO-UHFFFAOYSA-L;C12 H16 O5;240.0998;11.232;90.9;No matches found;Single match found;DDA for preferred ion
+3-hydroxy-2-(hydroxymethyl)-2-methylpropanoic acid;3-hydroxy-2-(hydroxymethyl)-2-methylpropanoic acid;HMDB0127615;NA;PTBDIHRZYDMNKB-UHFFFAOYSA-N;C5 H10 O4;134.05789;1.6;61.7;No matches found;Single match found;DDA for preferred ion
+3-Hydroxymethylglutaric acid;3-Hydroxymethylglutaric acid;HMDB0000355;C03761 ;NPOAOTPXWNWTSH-UHFFFAOYSA-N;C6 H10 O5;162.05278;2.226;64.6;No matches found;Single match found;DDA for preferred ion
+3-Hydroxysebacic acid;3-Hydroxysebacic acid;HMDB0000350;NA;OQYZCCKCJQWHIE-UHFFFAOYSA-N;C10 H18 O5;218.11521;9.751;NA;No matches found;No matches found;DDA for other ion
+3-Hydroxytetradecanedioic acid;3-Hydroxytetradecanedioic acid;HMDB0000394;NA;CEDZIURHISELSQ-UHFFFAOYSA-N;C14 H26 O5;274.17829;10.569;NA;No matches found;No matches found;DDA for preferred ion
+3-Hydroxytetradecanoyl carnitine;3-Hydroxytetradecanoyl carnitine;HMDB0061640;NA;GFAZJTUXMHGTOC-UHFFFAOYSA-N;C21 H41 N O5;387.29814;11.324;NA;No matches found;No matches found;No MS2
+3-Mercaptohexyl butyrate;3-Mercaptohexyl butyrate;HMDB0038948;NA;TZNJKOLXWHXDAF-UHFFFAOYSA-N;C10 H20 O2 S;204.11893;0.932;NA;No matches found;No matches found;No MS2
+3-Methylcyclohexanethiol;3-Methylcyclohexanethiol;HMDB0031537;NA;PWHHTYJQSMSOEC-UHFFFAOYSA-N;C7 H14 S;130.08217;1.421;NA;No matches found;No matches found;No MS2
+3-Oxotetradecanoic acid;3-Oxotetradecanoic acid;HMDB0010730;NA;XLKOZYOVXNPWGT-UHFFFAOYSA-N;C14 H26 O3;242.18822;12.827;NA;No matches found;No matches found;DDA for preferred ion
+3-Pyridin-3-yl-2-thiophen-2-ylprop-2-enenitrile;3-Pyridin-3-yl-2-thiophen-2-ylprop-2-enenitrile;NA;NA;DGMSKRCMDSDQKR-UHFFFAOYSA-N;C12 H8 N2 S;212.04062;6.665;82.1;Single match found;Single match found;DDA for preferred ion
+3-Tert-Butyladipic acid;3-Tert-Butyladipic acid;NA;NA;LHSCNQRBIIDZCB-UHFFFAOYSA-N;C10 H18 O4;202.12051;10.534;89.6;No matches found;Single match found;DDA for preferred ion
+4-Guanidinobutanoic acid;4-Guanidinobutanoic acid;HMDB0003464;C01035;TUHVEAJXIMEOSA-UHFFFAOYSA-N;C5 H11 N3 O2;145.08504;1.436;NA;No matches found;No matches found;No MS2
+4-Hydroxy-5-methyl-3(2H)-thiophenone;4-Hydroxy-5-methyl-3(2H)-thiophenone;HMDB0033548;NA;GIVVLEIYPVKDNV-UHFFFAOYSA-N;C5 H6 O2 S;130.00882;0.978;NA;No matches found;No matches found;No MS2
+4-Hydroxybenzenesulfonic acid;4-Hydroxybenzenesulfonic acid;NA;NA;FEPBITJSIHRMRT-UHFFFAOYSA-N;C6 H6 O4 S;173.99857;5.923;86.8;No matches found;Multiple matches found;DDA for preferred ion
+4-Hydroxycinnamic acid;4-Hydroxycinnamic acid;HMDB0002035;C00811;NGSWKAQJJWESNS-ZZXKWVIFSA-N;C9 H8 O3;164.0473;0.96;NA;No matches found;No matches found;DDA for preferred ion
+4-Indolecarbaldehyde;4-Indolecarbaldehyde;NA;NA;JFDDFGLNZWNJTK-UHFFFAOYSA-N;C9 H7 N O;145.05267;9.986;85.1;No matches found;Single match found;DDA for preferred ion
+4-Methylene-L-glutamine;4-Methylene-L-glutamine;NA;C01109;CEVQXWMPODOBRM-BYPYZUCNSA-N;C6 H10 N2 O3;158.06905;0.987;NA;No matches found;No matches found;DDA for preferred ion
+4-Oxo-L-proline;4-Oxo-L-proline;NA;C01877;HFXAFXVXPMUQCQ-BYPYZUCNSA-N;C5 H7 N O3;129.04257;1.623;95.7;No matches found;Single match found;DDA for preferred ion
+4-Trimethylammoniobutanoic acid;4-Trimethylammoniobutanoic acid;HMDB0001161;C01181;JHPNVNIEXXLNTR-UHFFFAOYSA-N;C7 H15 N O2;145.11021;0.92;NA;No matches found;No matches found;No MS2
+4-Vinylphenol sulfate;4-Vinylphenol sulfate;HMDB0062775;NA;IETVQHUKTKKBFF-UHFFFAOYSA-N;C8 H8 O4 S;200.01428;10.027;NA;No matches found;No matches found;DDA for preferred ion
+5-[4-hydroxy-3-(sulfooxy)phenyl]pentanoic acid;5-[4-hydroxy-3-(sulfooxy)phenyl]pentanoic acid;HMDB0127760;NA;OUPGXCOAIUBOQD-UHFFFAOYSA-N;C11 H14 O7 S;290.04631;8.47;NA;No matches found;No matches found;No MS2
+5-Sulfosalicylic acid;5-Sulfosalicylic acid;HMDB0011725;C16199;YCPXWRQRBFJBPZ-UHFFFAOYSA-N;C7 H6 O6 S;217.98766;5.301;NA;No matches found;No matches found;No MS2
+6-Hydroxypseudooxynicotine;6-Hydroxypseudooxynicotine;HMDB0240264;C01297 ;UMLOUOBDBGOHHR-UHFFFAOYSA-N;C10 H14 N2 O2;194.10505;10.926;NA;No matches found;No matches found;No MS2
+9(S)-HPODE;9(S)-HPODE;HMDB0006940;C14827 ;JGUNZIWGNMQSBM-ZJHFMPGASA-N;C18 H32 O4;312.23025;12.856;67;Single match found;Single match found;DDA for preferred ion
+A-12(13)-EpODE;A-12(13)-EpODE;HMDB0010200;NA;BKKGUKSHPCTUGE-OOHFSOINSA-N;C18 H30 O3;294.21953;12.738;NA;No matches found;No matches found;No MS2
+Acetyl tributyl citrate;Acetyl tributyl citrate;HMDB0034159;C00777;QZCLKYGREBVARF-UHFFFAOYSA-N;C20 H34 O8;402.2257;11.027;NA;No matches found;No matches found;No MS2
+Acetylglycine;Acetylglycine;HMDB0000532;NA;OKJIRPAQVSHGFK-UHFFFAOYSA-N;C4 H7 N O3;117.0425;0.932;NA;No matches found;No matches found;DDA for preferred ion
+Adenosine monophosphate;Adenosine monophosphate;HMDB0000045;C00020 ;UDMBCSSLTHHNCD-KQYNXXCUSA-N;C10 H14 N5 O7 P;347.06286;1.424;93.9;No matches found;Multiple matches found;DDA for preferred ion
+Alanylglycine;Alanylglycine;HMDB0006899;NA;CXISPYVYMQWFLE-VKHMYHEASA-N;C5 H10 N2 O3;146.06907;1.088;NA;No matches found;No matches found;DDA for preferred ion
+Allantoin;Allantoin;HMDB0000462;C01551 ;POJWUDADGALRAB-UHFFFAOYSA-N;C4 H6 N4 O3;158.04388;0.921;NA;No matches found;No matches found;DDA for preferred ion
+all-trans-Retinoic acid;all-trans-Retinoic acid;HMDB0001852;C00777;SHGAZHPCJJPHSC-YCNIQYBTSA-N;C20 H28 O2;300.20945;12.469;NA;No matches found;No matches found;No MS2
+Amidosulfonic acid;Amidosulfonic acid;HMDB0034830;NA;IIACRCGMVDHOTQ-UHFFFAOYSA-N;H3 N O3 S;96.9834;0.73;NA;No matches found;No matches found;DDA for other ion
+Anethole;Anethole;HMDB0030837;NA;RUVINXPYWBROJD-ARJAWSKDSA-N;C10 H12 O;148.08882;10.96;NA;No matches found;No matches found;No MS2
+Artemether;Artemether;HMDB0015643;NA;SXYIRMFQILZOAM-HVNFFKDJSA-N;C16 H26 O5;298.17818;10.927;NA;No matches found;No matches found;No MS2
+Ascorbic acid;Ascorbic acid;HMDB0000044;C01041 ;CIWBSHSKHKDKBQ-JLAZNSOCSA-N;C6 H8 O6;176.03202;1.402;89.3;No matches found;Single match found;DDA for preferred ion
+Ascorbic acid 2-sulfate;Ascorbic acid 2-sulfate;HMDB0060649;NA;XDBMXUKHMOFBPJ-ZAFYKAAXSA-N;C6 H8 O9 S;255.98905;0.938;88.3;No matches found;Single match found;DDA for preferred ion
+Aspartyl-L-proline;Aspartyl-L-proline;HMDB0002335;NA;UKGGPJNBONZZCM-WDSKDSINSA-N;C9 H14 N2 O5;230.09009;1.437;NA;No matches found;No matches found;No MS2
+Astilbin;Astilbin;HMDB0033850;C17449 ;ZROGCCBNZBKLEL-MPRHSVQHSA-N;C21 H22 O11;450.11668;10.167;NA;No matches found;No matches found;No MS2
+Avocadene 1-acetate;Avocadene 1-acetate;HMDB0031043;NA;NLBYRERHXBTBBR-UHFFFAOYSA-N;C6 H4 O5;156.00583;1.53;NA;No matches found;No matches found;No MS2
+Azelnidipine;Azelnidipine;NA;D01145;ZKFQEACEUNWPMT-UHFFFAOYSA-N;C33 H34 N4 O6;582.24788;16.69;NA;No matches found;No matches found;DDA for preferred ion
+Bevenopran;Bevenopran;NA;D10349;ZGCYVRNZWGUXNQ-UHFFFAOYSA-N;C20 H26 N4 O4;386.19422;10.067;NA;No matches found;No matches found;DDA for preferred ion
+Bilirubin;Bilirubin;HMDB0000054;C00486;BPYKTIZUTYGOLE-IFADSCNNSA-N;C33 H36 N4 O6;584.26274;16.685;82.4;No matches found;Single match found;DDA for preferred ion
+Bisoprolol;Bisoprolol;HMDB0014750;C06852 ;VHYCDWMUTMEGQY-UHFFFAOYSA-N;C18 H31 N O4;325.2249;10.747;NA;No matches found;No matches found;No MS2
+Butopyronoxyl;Butopyronoxyl;NA;NA;OKIJSNGRQAOIGZ-UHFFFAOYSA-N;C12 H18 O4;226.12053;10.852;NA;No matches found;No matches found;DDA for preferred ion
+Cascarillin;Cascarillin;HMDB0036836;C09071;ZOWKQQIGQBVKSV-UHFFFAOYSA-N;C22 H32 O7;408.21457;11.317;NA;No matches found;No matches found;No MS2
+Cedefingol;Cedefingol;NA;D03419;CRJGESKKUOMBCT-PMACEKPBSA-N;C20 H41 N O3;343.30818;12.251;NA;No matches found;No matches found;No MS2
+Chenodeoxycholic acid;Chenodeoxycholic acid;HMDB0000518;C02528;RUDATBOHQWOJDD-BSWAIDMHSA-N;C24 H40 O4;438.29841;11.831;83.2;Multiple matches found;No matches found;DDA for preferred ion
+Chlorpromazine;Chlorpromazine;HMDB0014620;C06906;ZPEIMTDSQAKGNT-UHFFFAOYSA-N;C17 H19 Cl N2 S;318.09555;10.888;93.3;No matches found;Multiple matches found;DDA for preferred ion
+Cholic acid;Cholic acid;HMDB0000619;C00695 ;BHQCQFFYRZLCQQ-OELDTZBJSA-N;C24 H40 O5;408.28784;11.728;91;Single match found;Multiple matches found;DDA for preferred ion
+Choline;Choline;HMDB0000097;C00114;OEYIOHPDSNJKLS-UHFFFAOYSA-N;C5 H13 N O;103.09959;0.868;88;No matches found;Single match found;DDA for preferred ion
+Ciclesonide;Ciclesonide;HMDB0015480;NA;LUKZNWIVRBCLON-FOMURGDPSA-N;C32 H44 O7;540.30929;12.319;NA;No matches found;No matches found;No MS2
+CID 12910457;CID 12910457;NA;NA;GYHHZMUNWLCUAH-UHFFFAOYSA-N;C12 H9 N S;199.04542;10.644;NA;No matches found;No matches found;DDA for preferred ion
+CID 134693179;CID 134693179;NA;NA;KYBOHGVERHWSSV-QSBRPZMVSA-N;C23 H38 O5;394.27231;11.288;NA;No matches found;No matches found;DDA for preferred ion
+Cinnamoylglycine;Cinnamoylglycine;HMDB0011621;NA;YAADMLWHGMUGQL-VOTSOKGWSA-N;C11 H11 N O3;205.0738;9.989;90.3;Single match found;Multiple matches found;DDA for preferred ion
+cis-4-Decenedioic acid;cis-4-Decenedioic acid;HMDB0000603;NA;CXGDCGIPEJKSCK-IWQZZHSRSA-N;C10 H16 O4;200.10486;10.346;NA;No matches found;No matches found;DDA for preferred ion
+cis-5-Tetradecenoylcarnitine;cis-5-Tetradecenoylcarnitine;HMDB0002014;NA;NNCBVXBBLABOCB-SEYXRHQNSA-N;C21 H39 N O4;369.28765;11.604;NA;No matches found;No matches found;DDA for preferred ion
+Citric acid;Citric acid;HMDB0000094;C00158;KRKNYBCHXYNGOX-UHFFFAOYSA-N;C6 H8 O7;192.02698;1.526;96.7;Single match found;Multiple matches found;DDA for preferred ion
+Citrulline;Citrulline;HMDB0000904;C00327 ;RHGKLRLOHDJJDR-UHFFFAOYSA-N;C6 H13 N3 O3;175.09564;0.888;NA;No matches found;No matches found;DDA for other ion
+Clozapine;Clozapine;HMDB0014507;C06924;QZUDBNBUXVUHMW-UHFFFAOYSA-N;C18 H19 Cl N4;326.1295;10.063;89.1;No matches found;Single match found;DDA for preferred ion
+Clozapine N-oxide;Clozapine N-oxide;HMDB0060900;NA;OGUCZBIQSYYWEF-UHFFFAOYSA-N;C18 H19 Cl N4 O;342.12438;10.24;92.7;No matches found;Single match found;DDA for preferred ion
+Creatine;Creatine;HMDB0000064;C00300;CVSVTCORWBXHQV-UHFFFAOYSA-N;C4 H9 N3 O2;131.06938;0.918;92.2;No matches found;Single match found;DDA for preferred ion
+Creatinine;Creatinine;HMDB0000562;C00791;DDRJAANPRJIHGJ-UHFFFAOYSA-N;C4 H7 N3 O;113.05884;0.886;NA;No matches found;No matches found;No MS2
+Cytosine;Cytosine;HMDB0000630;C00380;OPTASPLRGRRNAP-UHFFFAOYSA-N;C4 H5 N3 O;111.04352;1.419;NA;No matches found;No matches found;No MS2
+D-​Xylonic acid;D-​Xylonic acid;HMDB0059750;C00502 ;QXKAIJAYHKCRRA-FLRLBIABSA-N;C5 H10 O6;166.04766;0.91;NA;No matches found;No matches found;DDA for preferred ion
+dacisteine;dacisteine;NA;NA;HSPYGHDTVQJUDE-LURJTMIESA-N;C7 H11 N O4 S;205.04069;1.79;NA;No matches found;No matches found;DDA for preferred ion
+Daidzein;Daidzein;HMDB0003312;C10208 ;ZQSIJRDFPHDXIC-UHFFFAOYSA-N;C15 H10 O4;254.05791;10.471;84;No matches found;Multiple matches found;DDA for preferred ion
+Deoxyuridine;Deoxyuridine;HMDB0000012;C00526;MXHRCPNRJAMMIM-SHYZEUOFSA-N;C9 H12 N2 O5;228.07484;2.611;NA;No matches found;No matches found;DDA for other ion
+D-Glucuronic acid;D-Glucuronic acid;HMDB0000127;C00191 ;AEMOLEFTQBMNLQ-WAXACMCWSA-N;C6 H10 O7;194.04261;0.892;NA;No matches found;No matches found;No MS2
+DIBOA-Glc;DIBOA-Glc;HMDB0033734;NA;OUSLYTBGQGKTME-UHFFFAOYSA-N;C14 H17 N O9;343.09056;7.255;NA;No matches found;No matches found;No MS2
+Dibutyl malate;Dibutyl malate;HMDB0031696;NA;PDSCSYLDRHAHOX-UHFFFAOYSA-N;C12 H22 O5;246.14664;10.358;NA;No matches found;No matches found;No MS2
+Dibutyl phthalate;Dibutyl phthalate;HMDB0033244;C14214;DOIRQSBPFJWKBE-UHFFFAOYSA-N;C16 H22 O4;278.15183;12.117;NA;No matches found;No matches found;DDA for preferred ion
+Diethyl pyrocarbonate;Diethyl pyrocarbonate;HMDB0032873;C11592;FFYPMLJYZAEMQB-UHFFFAOYSA-N;C6 H10 O5;162.05266;0.905;NA;No matches found;No matches found;DDA for preferred ion
+Dihexyverine;Dihexyverine;NA;D07821;MNSQDVCVWNXBFQ-UHFFFAOYSA-N;C20 H35 N O2;321.26631;13.334;NA;No matches found;No matches found;No MS2
+Dihydromethysticin;Dihydromethysticin;HMDB0030791;C09926;RSIWXFIBHXYNFM-UHFFFAOYSA-N;C15 H16 O5;276.10008;10.741;NA;No matches found;No matches found;No MS2
+Dihydroroseoside;Dihydroroseoside;HMDB0040614;NA;QFTPTUOKFIIFJH-AATRIKPKSA-N;C19 H32 O8;388.21003;10.481;60.2;No matches found;Single match found;DDA for preferred ion
+Diphenol glucuronide;Diphenol glucuronide;HMDB0059998;NA;ICPYZFZFSLTYID-GPTQDWHKSA-N;C12 H14 O8;286.06902;2.008;NA;No matches found;No matches found;No MS2
+DL-Glutamate;DL-Glutamate;HMDB0060475;C00302;WHUUTDBJXJRKMK-UHFFFAOYSA-N;C5 H9 N O4;147.05305;1.403;NA;No matches found;No matches found;No MS2
+D-Mannose;D-Mannose;HMDB0000169;C00936 ;WQZGKKKJIJFFOK-PQMKYFCFSA-N;C6 H12 O6;180.06346;0.893;90.1;Multiple matches found;Multiple matches found;DDA for preferred ion
+Docosahexaenoic acid;Docosahexaenoic acid;HMDB0002183;C06429 ;MBMBGCFOFBJSGT-KUBAVDMBSA-N;C22 H32 O2;328.24034;14.245;89.5;Single match found;Single match found;DDA for preferred ion
+Dodecanedioic acid;Dodecanedioic acid;HMDB0000623;C02678;TVIDDXQYHWJXFK-UHFFFAOYSA-N;C12 H22 O4;230.1517;11.235;91.8;No matches found;Single match found;DDA for preferred ion
+Dolichol phosphate;Dolichol phosphate;HMDB0006353;C00110 ;DZHSRPJGCZHWOM-NTEUORMPSA-N;C25 H45 O4 P;440.30388;12.409;NA;No matches found;No matches found;No MS2
+D-Phenyllactic acid;D-Phenyllactic acid;HMDB0000563;NA;VOXXWSYKYCBWHO-UHFFFAOYSA-N;C9 H10 O3;166.06286;9.223;92.7;No matches found;Multiple matches found;DDA for preferred ion
+D-Proline;D-Proline;HMDB0003411;C00763 ;ONIBWKKTOPOVIA-SCSAIBSYSA-N;C5 H9 N O2;115.06326;0.932;92.9;No matches found;Multiple matches found;DDA for preferred ion
+Ecgonine;Ecgonine;HMDB0006548;C10858;PHMBVCPLDPDESM-RLXKETGRSA-N;C9 H15 N O3;185.10514;9.896;NA;No matches found;No matches found;DDA for preferred ion
+Ectoine;Ectoine;HMDB0240650;C06231 ;WQXNXVUDBPYKBA-YFKPBYRVSA-N;C6 H10 N2 O2;142.0742;0.935;NA;Single match found;No matches found;DDA for other ion
+Enviradene;Enviradene;NA;D04010;BFPYUXIFGJJYHU-AYSLTRBKSA-N;C19 H21 N3 O2 S;355.13496;9.531;NA;No matches found;No matches found;DDA for preferred ion
+Ethyl glucuronide;Ethyl glucuronide;HMDB0010325;NA;IWJBVMJWSPZNJH-UQGZVRACSA-N;C8 H14 O7;222.07386;5.165;NA;No matches found;No matches found;DDA for preferred ion
+Ethyl vanillin isobutyrate;Ethyl vanillin isobutyrate;HMDB0037683;NA;BTCQMCOBMIXUCG-UHFFFAOYSA-N;C13 H16 O4;236.10481;10.822;NA;No matches found;No matches found;No MS2
+Fagomine;Fagomine;HMDB0033453;C10144 ;YZNNBIPIQWYLDM-HSUXUTPPSA-N;C6 H13 N O3;147.08954;1.421;NA;No matches found;No matches found;DDA for other ion
+Fenethazine;Fenethazine;HMDB0240228;NA;PFAXACNYGZVKMX-UHFFFAOYSA-N;C16 H18 N2 S;270.11882;10.414;NA;No matches found;No matches found;DDA for preferred ion
+Floionolic acid;Floionolic acid;HMDB0034295;C19621 ;OISFHODBOQNZAG-UHFFFAOYSA-N;C18 H36 O5;332.25662;11.001;NA;No matches found;No matches found;No MS2
+Formiminoglutamic acid;Formiminoglutamic acid;HMDB0000854;C00439;NRXIKWMTVXPVEF-BYPYZUCNSA-N;C6 H10 N2 O4;174.06398;1.585;NA;No matches found;No matches found;DDA for preferred ion
+Fumaric acid;Fumaric acid;HMDB0000134;C00122;VZCYOOQTPOCHFL-OWOJBTEDSA-N;C4 H4 O4;116.01088;1.803;93.3;No matches found;Multiple matches found;DDA for preferred ion
+Galactitol;Galactitol;HMDB0000107;C01697;FBPFZTCFMRRESA-UHFFFAOYSA-N;C6 H14 O6;182.07882;0.89;NA;No matches found;No matches found;DDA for preferred ion
+Genistein;Genistein;HMDB0003217;C06563;TZBJGXHYKVUXJN-UHFFFAOYSA-N;C15 H10 O5;270.05303;10.965;76.4;Single match found;Multiple matches found;DDA for preferred ion
+Gluconic acid;Gluconic acid;HMDB0000625;C00257;RGHNJXZEOKUKBD-SQOUGZDYSA-N;C6 H12 O7;196.05826;0.888;70.6;No matches found;Multiple matches found;DDA for preferred ion
+Glu-Gly;Glu-Gly;HMDB0028819;NA;LSPKYLAFTPBWIL-BYPYZUCNSA-N;C7 H12 N2 O5;204.07446;0.92;NA;No matches found;No matches found;No MS2
+Glutamylglutamic acid;Glutamylglutamic acid;HMDB0028818;C01425 ;KOSRFJWDECSPRO-WDSKDSINSA-N;C10 H16 N2 O7;276.09553;1.403;NA;No matches found;No matches found;No MS2
+Glutamylmethionine;Glutamylmethionine;HMDB0028825;NA;SXGAGTVDWKQYCX-BQBZGAKWSA-N;C10 H18 N2 O5 S;278.09351;4.012;NA;No matches found;No matches found;DDA for preferred ion
+Glutamylserine;Glutamylserine;HMDB0028828;NA;UQHGAYSULGRWRG-WHFBIAKZSA-N;C8 H14 N2 O6;234.08527;0.935;NA;No matches found;No matches found;DDA for other ion
+Glutamylthreonine;Glutamylthreonine;HMDB0028829;NA;JSIQVRIXMINMTA-ZDLURKLDSA-N;C9 H16 N2 O6;248.10059;1.351;NA;No matches found;No matches found;No MS2
+Glutaric acid;Glutaric acid;HMDB0000661;C00489;JFCQEDHGNNZCLN-UHFFFAOYSA-N;C5 H8 O4;132.04246;1.426;NA;No matches found;No matches found;No MS2
+Glycerol;Glycerol;HMDB0000131;C00116;PEDCQBHIVMGVHV-UHFFFAOYSA-N;C3 H8 O3;92.04727;0.938;NA;No matches found;No matches found;DDA for other ion
+Glycerol tributanoate;Glycerol tributanoate;HMDB0031094;C13870;UYXTWWCETRIEDR-UHFFFAOYSA-N;C15 H26 O6;302.17304;10.325;NA;No matches found;No matches found;No MS2
+Glycocholic acid;Glycocholic acid;HMDB0000138;C01921 ;RFDAIACWWDREDC-FRVQLJSFSA-N;C26 H43 N O6;465.30898;11.711;NA;No matches found;No matches found;No MS2
+Glycyl-L-leucine;Glycyl-L-leucine;HMDB0000759;C02155;DKEXFJVMVGETOO-LURJTMIESA-N;C8 H16 N2 O3;188.11601;1.426;NA;No matches found;No matches found;No MS2
+Glycylproline;Glycylproline;HMDB0000721;NA;KZNQNBZMBZJQJO-YFKPBYRVSA-N;C7 H12 N2 O3;172.08473;1.422;NA;No matches found;No matches found;No MS2
+Hexadecanedioic acid;Hexadecanedioic acid;HMDB0000672;C19615;QQHJDPROMQRDLA-UHFFFAOYSA-N;C16 H30 O4;286.21451;12.576;95.7;Single match found;Single match found;DDA for preferred ion
+Hexanamide;Hexanamide;NA;NA;ALBYIUDWACNRRB-UHFFFAOYSA-N;C6 H13 N O;115.09964;0.918;NA;No matches found;No matches found;No MS2
+Hexanoylglycine;Hexanoylglycine;HMDB0000701;NA;UPCKIPHSXMXJOX-UHFFFAOYSA-N;C8 H15 N O3;173.10518;9.391;91.3;No matches found;Single match found;DDA for preferred ion
+Hippuric acid;Hippuric acid;HMDB0000714;C01586;QIAFMBKCNZACKA-UHFFFAOYSA-N;C9 H9 N O3;179.0582;7.288;88.4;No matches found;Multiple matches found;DDA for preferred ion
+Histamine;Histamine;HMDB0000870;C00388 ;NTYJJOPFIAHURM-UHFFFAOYSA-N;C5 H9 N3;111.07952;0.736;94.4;No matches found;Single match found;DDA for preferred ion
+Hypoxanthine;Hypoxanthine;HMDB0000157;C00262;FDGQSTZJBFJUBT-UHFFFAOYSA-N;C5 H4 N4 O;136.03842;0.956;95.5;No matches found;Multiple matches found;DDA for preferred ion
+Indole;Indole;HMDB0000738;C00463;SIKJAQJRHWYJAI-UHFFFAOYSA-N;C8 H7 N;117.05774;7.29;NA;No matches found;No matches found;DDA for preferred ion
+Indoleacrylic acid;Indoleacrylic acid;HMDB0000734;NA;PLVPPLCLBIEYEA-AATRIKPKSA-N;C11 H9 N O2;187.06323;9.745;88.4;No matches found;Multiple matches found;DDA for preferred ion
+Indolelactic acid;Indolelactic acid;HMDB0000671;C02043;XGILAAMKEQUXLS-JTQLQIEISA-N;C11 H11 N O3;205.07378;9.693;91.6;No matches found;Multiple matches found;DDA for preferred ion
+Indoxyl sulfate;Indoxyl sulfate;HMDB0000682;NA;BXFFHSIDQOFMLE-UHFFFAOYSA-N;C8 H7 N O4 S;213.00958;6.979;93.9;No matches found;Multiple matches found;DDA for preferred ion
+Isobutyrylglycine;Isobutyrylglycine;HMDB0000730;NA;DCICDMMXFIELDF-UHFFFAOYSA-N;C6 H11 N O3;145.07382;4.13;88.4;No matches found;Single match found;DDA for preferred ion
+Itaconic acid;Itaconic acid;HMDB0002092;C00490;LVHBHZANLOWSRM-UHFFFAOYSA-N;C5 H6 O4;130.02654;0.94;NA;No matches found;No matches found;DDA for preferred ion
+Kyotorphin;Kyotorphin;HMDB0005768;C02993;JXNRXNCCROJZFB-RYUDHWBXSA-N;C15 H23 N5 O4;337.1733;8.263;NA;No matches found;No matches found;No MS2
+L-Acetylcarnitine;L-Acetylcarnitine;HMDB0000201;C02571 ;RDHQFKQIGNGIED-MRVPVSSYSA-N;C9 H17 N O4;203.11564;1.423;95.4;No matches found;Single match found;DDA for preferred ion
+L-Arginine;L-Arginine;HMDB0000517;C00062 ;ODKSFYDXXFIFQN-UHFFFAOYSA-N;C6 H14 N4 O2;174.11162;0.867;96.2;Single match found;Multiple matches found;DDA for preferred ion
+L-Asparagine;L-Asparagine;HMDB0000168;C00152;DCXYFEDJOCDNAF-REOHCLBHSA-N;C4 H8 N2 O3;132.05342;0.932;NA;No matches found;No matches found;DDA for preferred ion
+L-Carnitine;L-Carnitine;HMDB0000062;NA;PHIQHXFUZVPYII-ZCFIWIBFSA-N;C7 H15 N O3;161.10506;0.886;96.1;No matches found;Multiple matches found;DDA for preferred ion
+Leucyl-Glutamate;Leucyl-Glutamate;HMDB0028928;NA;NFNVDJGXRFEYTK-UHFFFAOYSA-N;C11 H20 N2 O5;260.13706;5.911;NA;No matches found;No matches found;DDA for preferred ion
+Leucylproline;Leucylproline;HMDB0011175;NA;VTJUNIYRYIAIHF-IUCAKERBSA-N;C11 H20 N2 O3;228.1473;6.184;NA;No matches found;No matches found;No MS2
+Levulinic acid;Levulinic acid;HMDB0000720;NA;JOOXCMJARBKPKM-UHFFFAOYSA-N;C5 H8 O3;116.04731;7.699;NA;No matches found;No matches found;No MS2
+L-Glutamine;L-Glutamine;HMDB0000641;C00064 ;ZDXPYRJPNDTMRX-VKHMYHEASA-N;C5 H10 N2 O3;146.06906;0.874;86.6;No matches found;Multiple matches found;DDA for preferred ion
+L-Histidine;L-Histidine;HMDB0000177;C00135;HNDVDQJCIGZPNO-YFKPBYRVSA-N;C6 H9 N3 O2;155.06943;0.832;NA;No matches found;No matches found;No MS2
+L-Lysine;L-Lysine;HMDB0000182;C00047 ;KDXKERNSBIXSRK-YFKPBYRVSA-N;C6 H14 N2 O2;146.10547;0.755;90.1;No matches found;Multiple matches found;DDA for preferred ion
+L-Methionine;L-Methionine;HMDB0000696;C00073 ;FFEARJCKVFRZRR-BYPYZUCNSA-N;C5 H11 N O2 S;149.05098;1.43;96.2;No matches found;Multiple matches found;DDA for preferred ion
+Lopinavir;Lopinavir;HMDB0015539;C12871;KJHKTHWMRKYKJE-SUGCFTRWSA-N;C37 H48 N4 O5;628.36125;12.584;NA;No matches found;No matches found;No MS2
+Loxoprofen;Loxoprofen;HMDB0041920;D08149;YMBXTVYHTMGZDW-UHFFFAOYSA-N;C15 H18 O3;246.12541;11.924;NA;No matches found;No matches found;No MS2
+L-Phenylalanine;L-Phenylalanine;HMDB0000159;C00079 ;COLNVLDHVKWLRT-QMMMGPOBSA-N;C9 H11 N O2;165.07892;9.427;NA;No matches found;No matches found;No MS2
+L-Prolinamide;L-Prolinamide;NA;C19781;VLJNHYLEOZPXFW-BYPYZUCNSA-N;C5 H10 N2 O;114.07921;0.762;NA;No matches found;No matches found;DDA for preferred ion
+L-Serine;L-Serine;HMDB0000187;C00065 ;MTCFGRXMJLQNBG-REOHCLBHSA-N;C3 H7 N O3;105.0425;0.877;NA;No matches found;No matches found;DDA for other ion
+L-Threonine;L-Threonine;HMDB0000167;C00188;AYFVYJQAPQTCCC-GBXIJSLDSA-N;C4 H9 N O3;119.05813;0.877;NA;No matches found;No matches found;DDA for other ion
+L-Tyrosine;L-Tyrosine;HMDB0000158;C00082;OUYCCCASQSFEME-QMMMGPOBSA-N;C9 H11 N O3;181.07386;0.967;91.2;No matches found;Multiple matches found;DDA for preferred ion
+Lunacalcipol;Lunacalcipol;NA;D09928;RFQHCLMGLJGZNV-UXXOMSPDSA-N;C28 H42 O4 S;474.28066;10.924;NA;No matches found;No matches found;No MS2
+Lusitanicoside;Lusitanicoside;HMDB0034120;C10474 ;DAELTTGCCPRYTP-UHFFFAOYSA-N;C21 H30 O10;442.18425;10.417;NA;No matches found;No matches found;No MS2
+L-Valine;L-Valine;HMDB0000883;C00183 ;KZSNJWFQEVHDMF-BYPYZUCNSA-N;C5 H11 N O2;117.07885;0.926;93.9;No matches found;Multiple matches found;DDA for preferred ion
+LysoPC(0:0/18:1(9Z));LysoPC(0:0/18:1(9Z));HMDB0062651;NA;SULIDBRAXVDKBU-PTGWMXDISA-N;C26 H52 N O7 P;521.3479;13.017;NA;No matches found;No matches found;DDA for preferred ion
+LysoPC(16:1(9Z)/0:0);LysoPC(16:1(9Z)/0:0);HMDB0010383;C04230 ;LFUDDCMNKWEORN-ZXEGGCGDSA-N;C24 H48 N O7 P;493.31663;12.438;NA;No matches found;No matches found;DDA for preferred ion
+LysoPC(18:2(9Z,12Z)/0:0);LysoPC(18:2(9Z,12Z)/0:0);HMDB0010386;NA;SPJFYYJXNPEZDW-FTJOPAKQSA-N;C26 H50 N O7 P;519.3322;12.668;NA;No matches found;No matches found;DDA for preferred ion
+LysoPC(20:5(5Z,8Z,11Z,14Z,17Z)/0:0);LysoPC(20:5(5Z,8Z,11Z,14Z,17Z)/0:0);HMDB0010397;C04230 ;PDIGSOAOQOXRDU-WJPZTBRDSA-N;C28 H48 N O7 P;541.31669;12.317;NA;No matches found;No matches found;DDA for preferred ion
+LysoPC(22:5(7Z,10Z,13Z,16Z,19Z)/0:0);LysoPC(22:5(7Z,10Z,13Z,16Z,19Z)/0:0);HMDB0010403;C04230 ;BIEOSECQPGGZMF-NAIWXXGBSA-N;C30 H52 N O7 P;569.34774;13.003;NA;No matches found;No matches found;DDA for preferred ion
+LysoPC(P-16:0/0:0);LysoPC(P-16:0/0:0);HMDB0010407;NA;HTZINLFNXLXRBC-CQLBIITFSA-N;C24 H50 N O6 P;479.33709;13.174;NA;No matches found;No matches found;DDA for preferred ion
+LysoPC(P-18:0/0:0);LysoPC(P-18:0/0:0);HMDB0013122;NA;WBOMIOWRFSPZMC-AYICAFKVSA-N;C26 H54 N O6 P;507.36864;13.406;NA;No matches found;No matches found;DDA for preferred ion
+LysoPE(18:1(9Z)/0:0);LysoPE(18:1(9Z)/0:0);HMDB0011506;NA;PYVRVRFVLRNJLY-MZMPXXGTSA-N;C23 H46 N O7 P;479.30112;13.098;NA;No matches found;No matches found;DDA for preferred ion
+LysoPE(20:4(5Z,8Z,11Z,14Z)/0:0);LysoPE(20:4(5Z,8Z,11Z,14Z)/0:0);HMDB0011517;NA;ROPRRXYVXLDXQO-XSQXPFHXSA-N;C25 H44 N O7 P;501.28565;12.636;NA;No matches found;No matches found;DDA for preferred ion
+Menadiol;Menadiol;NA;C07126;ZJTLZYDQJHKRMQ-UHFFFAOYSA-N;C11 H10 O2;174.06803;10.922;NA;No matches found;No matches found;No MS2
+Menadione;Menadione;HMDB0001892;C05377;MJVAVZPDRWSRRC-UHFFFAOYSA-N;C11 H8 O2;172.05238;10.767;NA;No matches found;No matches found;No MS2
+Meprobamate;Meprobamate;HMDB0014515;NA;NPPQSCRMBWNHMW-UHFFFAOYSA-N;C9 H18 N2 O4;218.12654;1.432;NA;No matches found;No matches found;No MS2
+Methacholine;Methacholine;HMDB0015654;C07471 ;NZWOPGCLSHLLPA-UHFFFAOYSA-N;C8 H17 N O2;159.12582;1.417;87.3;No matches found;Single match found;DDA for preferred ion
+Methyl 3-(2,3-dihydroxy-3-methylbutyl)-4-hydroxybenzoate;Methyl 3-(2,3-dihydroxy-3-methylbutyl)-4-hydroxybenzoate;HMDB0032796;NA;ABFHVQPVDSMGNR-UHFFFAOYSA-N;C13 H18 O5;254.11553;10.891;NA;Multiple matches found;No matches found;DDA for preferred ion
+Methyl jasmonate;Methyl jasmonate;HMDB0036583;C11512 ;GEWDNTWNSAZUDX-WQMVXFAESA-N;C13 H20 O3;224.14105;11.827;NA;No matches found;No matches found;No MS2
+Mexiletine;Mexiletine;HMDB0014523;C07220 ;VLPIATFUUWWMKC-UHFFFAOYSA-N;C11 H17 N O;179.13105;11.45;NA;No matches found;No matches found;No MS2
+Minaprine;Minaprine;HMDB0014943;NA;LDMWSLGGVTVJPG-UHFFFAOYSA-N;C17 H22 N4 O;298.17815;11.782;NA;No matches found;No matches found;No MS2
+Muscimol;Muscimol;NA;C08311;ZJQHPWUVQPJPQT-UHFFFAOYSA-N;C4 H6 N2 O2;114.04284;0.928;NA;No matches found;No matches found;DDA for preferred ion
+N1-Acetylspermidine;N1-Acetylspermidine;HMDB0001276;C00612 ;MQTAVJHICJWXBR-UHFFFAOYSA-N;C9 H21 N3 O;187.16847;0.822;NA;No matches found;No matches found;No MS2
+N2-Acetylornithine;N2-Acetylornithine;HMDB0003357;C00437;JRLGPAXAGHMNOL-LURJTMIESA-N;C7 H14 N2 O3;174.10041;0.945;NA;Single match found;No matches found;DDA for preferred ion
+N-a-Acetyl-L-arginine;N-a-Acetyl-L-arginine;HMDB0004620;NA;SNEIUMQYRCDYCH-LURJTMIESA-N;C8 H16 N4 O3;216.12209;0.916;NA;No matches found;No matches found;No MS2
+Nabilone;Nabilone;HMDB0014629;NA;GECBBEABIDMGGL-RTBURBONSA-N;C24 H36 O3;372.26611;11.727;NA;No matches found;No matches found;No MS2
+N-Acetylglutamine;N-Acetylglutamine;HMDB0006029;NA;KSMRODHGGIIXDV-YFKPBYRVSA-N;C7 H12 N2 O4;188.07963;1.421;NA;No matches found;No matches found;No MS2
+N-Acetyl-L-alanine;N-Acetyl-L-alanine;HMDB0000766;NA;KTHDTJVBEPMMGL-VKHMYHEASA-N;C5 H9 N O3;131.05818;2.068;61.7;No matches found;Single match found;DDA for preferred ion
+N-Acetyl-L-phenylalanine;N-Acetyl-L-phenylalanine;HMDB0000512;C03519;CBQJSKKFNMDLON-JTQLQIEISA-N;C11 H13 N O3;207.08945;9.443;94.2;Single match found;Single match found;DDA for preferred ion
+N-Acetyl-L-tyrosine;N-Acetyl-L-tyrosine;HMDB0000866;C01657;CAHKINHBCWCHCF-JTQLQIEISA-N;C11 H13 N O4;223.08437;6.343;95.8;Single match found;Single match found;DDA for preferred ion
+N-Acetylserine;N-Acetylserine;HMDB0002931;NA;JJIHLJJYMXLCOY-BYPYZUCNSA-N;C5 H9 N O4;147.05306;0.886;NA;No matches found;No matches found;DDA for preferred ion
+N-Acetyltaurine;N-Acetyltaurine;HMDB0240253;NA;CXJAAWRLVGAKDV-UHFFFAOYSA-N;C4 H9 N O4 S;167.02523;0.951;NA;No matches found;No matches found;No MS2
+N-gamma-Glutamylglutamine;N-gamma-Glutamylglutamine;HMDB0029147;NA;FCWNOQOVMGNKNG-WDSKDSINSA-N;C10 H17 N3 O6;275.1115;0.93;NA;No matches found;No matches found;No MS2
+Nicotinic acid;Nicotinic acid;HMDB0001488;C00253;PVNIIMVLHYAWGP-UHFFFAOYSA-N;C6 H5 N O2;123.03197;1.433;96.1;No matches found;Multiple matches found;DDA for preferred ion
+N-Isovalerylglycine;N-Isovalerylglycine;HMDB0000678;NA;DCICDMMXFIELDF-UHFFFAOYSA-N;C7 H13 N O3;159.08944;6.235;84.6;No matches found;Multiple matches found;DDA for preferred ion
+N-Stearoyl tyrosine;N-Stearoyl tyrosine;HMDB0062343;NA;YKWCFTGLODSOSB-VWLOTQADSA-N;C27 H45 N O4;447.33455;12.087;NA;No matches found;No matches found;No MS2
+Octadecanamide;Octadecanamide;HMDB0034146;C13846 ;LYRFLYHAGKPMFH-UHFFFAOYSA-N;C18 H37 N O;283.28725;11.772;NA;No matches found;No matches found;No MS2
+Octanoylglucuronide;Octanoylglucuronide;HMDB0010347;C03033;ASFORWUCPCKFPY-BYNIDDHOSA-N;C14 H24 O8;320.14694;10.302;NA;No matches found;No matches found;DDA for preferred ion
+Olanzapine;Olanzapine;HMDB0005012;C07322;KVWDHTXUZHCGIO-UHFFFAOYSA-N;C17 H20 N4 S;312.14057;6.67;90.9;No matches found;Single match found;DDA for preferred ion
+Oleamide;Oleamide;HMDB0002117;C19670;FATBGEAMYMYZAF-KTKRTIGZSA-N;C18 H35 N O;264.24501;14.558;95.7;Single match found;Single match found;DDA for other ion
+Oleandolide;Oleandolide;NA;C11990;PFDLUBNRHMFBGI-HRVFELILSA-N;C20 H34 O7;386.23067;12.128;NA;No matches found;No matches found;DDA for preferred ion
+Oleic acid;Oleic acid;HMDB0000207;C00712;ZQPPMHVWECSIRJ-KTKRTIGZSA-N;C18 H34 O2;282.25598;12.294;NA;No matches found;No matches found;DDA for preferred ion
+Oleoylethanolamide;Oleoylethanolamide;HMDB0002088;NA;NA;C20 H39 N O2;331.30834;11.802;71.8;No matches found;Single match found;DDA for preferred ion
+Ophthalmic acid;Ophthalmic acid;HMDB0005765;NA;JCMUOFQHZLPHQP-BQBZGAKWSA-N;C11 H19 N3 O6;289.12715;1.59;NA;No matches found;No matches found;No MS2
+Oxidized glutathione;Oxidized glutathione;HMDB0003337;C00127 ;YPZRWBKMTBYPTK-BJDJZHNGSA-N;C20 H32 N6 O12 S2;612.15149;1.932;76.4;No matches found;Single match found;DDA for preferred ion
+Oxoadipic acid;Oxoadipic acid;HMDB0000225;C00322;FGSBNBBHOZHUBO-UHFFFAOYSA-N;C6 H8 O5;160.03711;1.741;NA;No matches found;No matches found;No MS2
+Oxoglutaric acid;Oxoglutaric acid;HMDB0000208;C00026;KPGXRSRHYNQIFN-UHFFFAOYSA-N;C5 H6 O5;146.02148;1.526;NA;No matches found;No matches found;No MS2
+Oxybuprocaine;Oxybuprocaine;HMDB0015029;NA;CMHHMUWAYWTMGS-UHFFFAOYSA-N;C17 H28 N2 O3;308.21004;11.974;NA;No matches found;No matches found;No MS2
+Palmitic acid;Palmitic acid;HMDB0000220;C00249 ;IPCSVZSSVZVIGE-UHFFFAOYSA-N;C16 H32 O2;273.26646;11.137;74.5;Single match found;No matches found;DDA for preferred ion
+Palmitic amide;Palmitic amide;HMDB0012273;NA;HSEMFIZWXHQJAE-UHFFFAOYSA-N;C16 H33 N O;255.25594;11.374;NA;No matches found;No matches found;No MS2
+Palmitoleic acid;Palmitoleic acid;HMDB0003229;C08362 ;SECPZKHBENQXJG-FPLPWBNLSA-N;C16 H30 O2;254.22449;14.37;89.2;Single match found;Multiple matches found;DDA for preferred ion
+Palmitoylethanolamide;Palmitoylethanolamide;HMDB0002100;C16512;HXYVTAGFYLMHSO-UHFFFAOYSA-N;C18 H37 N O2;299.28217;11.258;77.1;No matches found;Single match found;DDA for preferred ion
+Paraldehyde;Paraldehyde;HMDB0032456;C07834 ;SQYNKIJPMDEDEG-UHFFFAOYSA-N;C6 H12 O3;132.07851;6.094;NA;No matches found;No matches found;No MS2
+Paucine;Paucine;HMDB0029876;C03002 ;KTZNZCYTXQYEHT-XQRVVYSFSA-N;C23 H32 O10;468.19974;10.918;NA;No matches found;No matches found;DDA for preferred ion
+PE(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z));PE(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z));HMDB0009012;NA;XYYHNDVKALDFHQ-OXHZBIAZSA-N;C45 H78 N O8 P;791.55026;13.447;NA;No matches found;No matches found;No MS2
+Pentamidine;Pentamidine;HMDB0014876;C07420 ;XDRYMKDFEDOLFX-UHFFFAOYSA-N;C19 H24 N4 O2;340.18881;10.967;NA;No matches found;No matches found;DDA for other ion
+Phenylacetaldehyde;Phenylacetaldehyde;HMDB0006236;C00601;DTUQWGWMVIHBKE-UHFFFAOYSA-N;C8 H8 O;120.05739;9.215;77.8;No matches found;Single match found;DDA for preferred ion
+Phenylacetylglycine;Phenylacetylglycine;HMDB0000821;C05598 ;UTYVDVLMYQPLQB-UHFFFAOYSA-N;C10 H11 N O3;193.0739;8.193;90.8;No matches found;Multiple matches found;DDA for preferred ion
+Phenylhydrazine;Phenylhydrazine;NA;C02304;HKOOXMFOFWEVGF-UHFFFAOYSA-N;C6 H8 N2;108.0687;0.742;NA;No matches found;No matches found;No MS2
+Phosphoric acid;Phosphoric acid;HMDB0002142;C00009;NBIIXXVUZAFLBC-UHFFFAOYSA-N;H3 O4 P;97.97679;0.962;NA;No matches found;No matches found;DDA for preferred ion
+Picrocrocin;Picrocrocin;HMDB0005796;NA;WMHJCSAICLADIN-VKSCUUAMSA-N;C16 H26 O7;330.16796;10.718;NA;No matches found;No matches found;DDA for preferred ion
+Pimilprost;Pimilprost;NA;D01188;SLDLSMFNGFIPNI-RXYUHBJGSA-N;C23 H40 O5;396.28719;13.755;NA;Single match found;No matches found;DDA for other ion
+Pipazethate;Pipazethate;HMDB0015686;NA;DTVJXCOMJLLMAK-UHFFFAOYSA-N;C21 H25 N3 O3 S;399.1614;9.616;NA;No matches found;No matches found;DDA for preferred ion
+Pipecolic acid;Pipecolic acid;HMDB0000070;C00408;HXEACLLIILLPRG-UHFFFAOYSA-N;C6 H11 N O2;129.079;1.425;63.4;No matches found;Multiple matches found;DDA for preferred ion
+Pivagabine;Pivagabine;NA;D07342;SRPNQDXRVRCTNK-UHFFFAOYSA-N;C9 H17 N O3;187.12083;10.242;NA;No matches found;No matches found;DDA for preferred ion
+Platelet-activating factor;Platelet-activating factor;HMDB0062195;NA;HVAUUPRFYPCOCA-AREMUKBSSA-N;C26 H54 N O7 P;523.36352;13.826;NA;No matches found;No matches found;DDA for preferred ion
+Plazomicin;Plazomicin;NA;NA;YDYFVUFSPQPPV-PEXOCOHZSA-N;C25 H48 N6 O10;592.34355;11.074;NA;No matches found;No matches found;No MS2
+Pregabalin;Pregabalin;HMDB0014375;NA;AYXYPKUFHZROOJ-ZETCQYMHSA-N;C8 H17 N O2;159.12583;0.935;NA;No matches found;No matches found;No MS2
+Probucol;Probucol;HMDB0015537;C07373;FYPMFJGVHOHGLL-UHFFFAOYSA-N;C31 H48 O2 S2;516.30947;11.194;NA;No matches found;No matches found;No MS2
+Prohydrojasmon;Prohydrojasmon;NA;C18538;IPDFPNNPBMREIF-CHWSQXEVSA-N;C15 H26 O3;254.18821;12.795;NA;No matches found;No matches found;DDA for preferred ion
+Proline;Proline;HMDB0000162;C00148;ONIBWKKTOPOVIA-BYPYZUCNSA-N;C5 H9 N O2;115.06322;0.759;NA;No matches found;No matches found;No MS2
+Proline betaine;Proline betaine;HMDB0004827;C10172 ;CMUNUTVVOOHQPW-LURJTMIESA-N;C7 H13 N O2;143.09454;7.161;NA;No matches found;No matches found;No MS2
+Promazine 5-sulfoxide;Promazine 5-sulfoxide;HMDB0013938;NA;KSHDHDWHIWBNHA-UHFFFAOYSA-N;C17 H20 N2 O S;300.12927;10.604;NA;No matches found;No matches found;No MS2
+Promethazine sulfoxide;Promethazine sulfoxide;NA;NA;OWTCLFIFAFHQIX-UHFFFAOYSA-N;C17 H20 N2 O S;300.12929;9.406;93;No matches found;Multiple matches found;DDA for preferred ion
+Propionylcarnitine;Propionylcarnitine;HMDB0000824;NA;UFAHZIUFPNSHSL-MRVPVSSYSA-N;C10 H19 N O4;217.13124;9.878;NA;No matches found;No matches found;DDA for preferred ion
+Propofol;Propofol;HMDB0014956;NA;OLBCVFGFOZPWHH-UHFFFAOYSA-N;C12 H18 O;178.13559;10.761;NA;No matches found;No matches found;No MS2
+Prostaglandin G2 2-glyceryl Ester;Prostaglandin G2 2-glyceryl Ester;HMDB0062591;NA;CSMKZOGJSGGURC-PKBBWAGBSA-N;C23 H38 O8;442.25679;12.041;NA;No matches found;Single match found;DDA for preferred ion
+Protodioscin;Protodioscin;HMDB0034062;C08907 ;LVTJOONKWUXEFR-UHFFFAOYSA-N;C51 H84 O22;1048.54599;11.888;NA;No matches found;No matches found;No MS2
+PS(16:0/16:1(9Z));PS(16:0/16:1(9Z));HMDB0012355;NA;SQYNOJCBJMSMAA-DPQCVDONSA-N;C38 H72 N O10 P;733.49003;12.437;NA;No matches found;No matches found;No MS2
+Purine;Purine;HMDB0001366;C15587;KDCGOANMDULRCW-UHFFFAOYSA-N;C5 H4 N4;120.04219;0.965;62.6;No matches found;Single match found;DDA for preferred ion
+Putrescine;Putrescine;HMDB0001414;C00134;KIDHWZJUCRJVML-UHFFFAOYSA-N;C4 H12 N2;88.09993;0.73;NA;No matches found;No matches found;No MS2
+Pyrogallol;Pyrogallol;NA;C01108;WQGWDDDVZFFDIG-UHFFFAOYSA-N;C6 H6 O3;126.03165;0.888;NA;No matches found;No matches found;No MS2
+Pyrogallol-2-O-sulphate;Pyrogallol-2-O-sulphate;HMDB0060018;NA;XADBYTWTQXSBAF-UHFFFAOYSA-N;C6 H6 O6 S;205.98848;4.399;NA;No matches found;No matches found;DDA for preferred ion
+Quercitrin;Quercitrin;HMDB0033751;C01750;OXGUCUVFOIWWQJ-HQBVPOQASA-N;C21 H20 O11;448.10124;9.959;NA;No matches found;No matches found;No MS2
+Quetiapine;Quetiapine;HMDB0005021;C07397;URKOMYMAXPYINW-UHFFFAOYSA-N;C21 H25 N3 O2 S;383.16636;10.197;92;No matches found;Single match found;DDA for preferred ion
+Ribothymidine;Ribothymidine;HMDB0000884;NA;DWRXFEITVBNRMK-JXOAFFINSA-N;C10 H14 N2 O6;258.08499;0.935;NA;No matches found;No matches found;No MS2
+Ribulose-5-phosphate;Ribulose-5-phosphate;NA;C00199;FNZLKVNUWIIPSJ-UHNVWZDZSA-N;C5 H11 O8 P;230.01873;0.931;NA;No matches found;No matches found;No MS2
+Risperidone;Risperidone;HMDB0005020;C06861 ;RAPZEAPATHNIPO-UHFFFAOYSA-N;C23 H27 F N4 O2;410.21288;9.574;NA;No matches found;No matches found;DDA for preferred ion
+S-2-Propenyl propanethioate;S-2-Propenyl propanethioate;HMDB0037493;NA;GKRISGLFPMFKSX-UHFFFAOYSA-N;C6 H10 O S;130.04587;0.855;NA;No matches found;No matches found;No MS2
+Salbutamol;Salbutamol;HMDB0001937;C11770 ;NDAUXUAQIAJITI-UHFFFAOYSA-N;C13 H21 N O3;239.15217;11.453;NA;No matches found;No matches found;DDA for preferred ion
+Salicylic acid;Salicylic acid;HMDB0001895;C00805 ;YGSDEFSMJLZEOE-UHFFFAOYSA-N;C7 H6 O3;138.03164;10.164;70.8;No matches found;Multiple matches found;DDA for preferred ion
+Salicyluric acid;Salicyluric acid;HMDB0000840;C07588 ;ONJSZLXSECQROL-UHFFFAOYSA-N;C9 H9 N O4;195.05305;5.346;89.1;No matches found;Single match found;DDA for preferred ion
+S-Allylcysteine;S-Allylcysteine;HMDB0034323;NA;ZFAHNWWNDFHPOH-UHFFFAOYSA-N;C6 H11 N O2 S;161.05088;2.71;NA;No matches found;No matches found;No MS2
+Secobarbital;Secobarbital;HMDB0014562;NA;KQPKPCNLIDLUMF-UHFFFAOYSA-N;C12 H18 N2 O3;238.13105;11.747;NA;No matches found;No matches found;No MS2
+Secoisolariciresinol;Secoisolariciresinol;HMDB0013692;C18167 ;PUETUDUXMCLALY-HOTGVXAUSA-N;C20 H26 O6;362.17265;11.699;NA;No matches found;No matches found;No MS2
+Sorbitan laurate;Sorbitan laurate;HMDB0029885;NA;LWZFANDGMFTDAV-UHFFFAOYSA-N;C18 H34 O6;346.23557;10.905;NA;No matches found;No matches found;DDA for preferred ion
+Soyasaponin I;Soyasaponin I;HMDB0034649;C08983;PTDAHAWQAGSZDD-IOVCITQVSA-N;C48 H78 O18;942.51476;11.1;NA;No matches found;No matches found;No MS2
+Spermidine;Spermidine;HMDB0001257;C00315;ATHGHQPFGPMSJY-UHFFFAOYSA-N;C7 H19 N3;128.13124;0.729;75.1;No matches found;Single match found;DDA for other ion
+Sphinganine 1-phosphate;Sphinganine 1-phosphate;HMDB0001383;C01120;YHEDRJPUIRMZMP-ZWKOTPCHSA-N;C18 H40 N O5 P;381.26436;12.296;NA;No matches found;No matches found;DDA for preferred ion
+Sphingosine 1-phosphate;Sphingosine 1-phosphate;HMDB0000277;C06124;DUYSYHSSBDVJSM-KRWOKUGFSA-N;C18 H38 N O5 P;379.2487;12.148;87.2;No matches found;Single match found;DDA for preferred ion
+Stearoylcarnitine;Stearoylcarnitine;HMDB0000848;NA;FNPHNLNTJNMAEE-HSZRJFAPSA-N;C25 H49 N O4;427.3658;12.568;NA;No matches found;No matches found;DDA for preferred ion
+Succinic acid;Succinic acid;HMDB0000254;C00042;KDYFGRWQOYBRFD-UHFFFAOYSA-N;C4 H6 O4;118.02653;1.939;91.6;No matches found;Multiple matches found;DDA for preferred ion
+Succinic anhydride;Succinic anhydride;HMDB0032523;C19524;RINCXYDBBGOEEQ-UHFFFAOYSA-N;C4 H4 O3;100.016;1.863;NA;No matches found;No matches found;No MS2
+Sucrose;Sucrose;HMDB0000258;C00089;CZMRCDWAGMRECN-UGDNZRGBSA-N;C12 H22 O11;342.11599;0.908;NA;No matches found;No matches found;No MS2
+Sulfoglycolithocholate(2-);Sulfoglycolithocholate(2-);HMDB0062801;NA;FHXBAFXQVZOILS-UHFFFAOYSA-N;C26 H43 N O7 S;513.27641;10.797;NA;No matches found;No matches found;DDA for preferred ion
+Suprofen;Suprofen;HMDB0015008;C07320;MDKGKXOCJGEUJW-UHFFFAOYSA-N;C14 H12 O3 S;260.05054;1.5;NA;No matches found;No matches found;No MS2
+Taurine;Taurine;HMDB0000251;C00245 ;XOAAWQZATWQOTB-UHFFFAOYSA-N;C2 H7 N O3 S;125.01455;0.875;88.2;No matches found;Single match found;DDA for preferred ion
+Tentoxin;Tentoxin;NA;C08441;SIIRBDOFKDACOK-LFXZBHHUSA-N;C22 H30 N4 O4;414.22522;11.778;NA;No matches found;No matches found;No MS2
+Tetraacetylethylenediamine;Tetraacetylethylenediamine;HMDB0040573;NA;BGRWYDHXPHLNKA-UHFFFAOYSA-N;C10 H16 N2 O4;228.11087;1.357;NA;No matches found;No matches found;No MS2
+Tetradecanedioic acid;Tetradecanedioic acid;HMDB0000872;NA;HQHCYKULIHKCEB-UHFFFAOYSA-N;C14 H26 O4;258.18327;11.94;90.5;No matches found;Single match found;DDA for preferred ion
+Tetrahydrocortisol;Tetrahydrocortisol;HMDB0000949;C05465 ;AODPIQQILQLWGS-OBRSLYEHSA-N;C21 H34 O5;366.24064;10.816;NA;No matches found;No matches found;DDA for preferred ion
+Theophylline;Theophylline;HMDB0001889;C07130;ZFXYFBGIUFBOJW-UHFFFAOYSA-N;C7 H8 N4 O2;180.06464;6.026;83.2;No matches found;Multiple matches found;DDA for preferred ion
+Thiomorpholine 3-carboxylate;Thiomorpholine 3-carboxylate;HMDB0059611;C03901;JOKIQGQOKXGHDV-UHFFFAOYSA-N;C5 H9 N O2 S;147.03538;0.94;NA;No matches found;No matches found;DDA for preferred ion
+Threonic acid;Threonic acid;HMDB0062620;C01620;JPIJQSOTBSSVTP-STHAYSLISA-N;C4 H8 O5;136.03716;0.911;74.2;No matches found;Single match found;DDA for preferred ion
+Thymidine;Thymidine;HMDB0000273;C00214;IQFYYKKMVGJFEH-XLPZGREQSA-N;C10 H14 N2 O5;242.09045;4.624;78.8;No matches found;Single match found;DDA for preferred ion
+Thymine;Thymine;HMDB0000262;C00178;RWQNBRDOKXIBIV-UHFFFAOYSA-N;C5 H6 N2 O2;126.04301;4.464;NA;No matches found;No matches found;No MS2
+Tiglylcarnitine;Tiglylcarnitine;HMDB0002366;NA;WURBQCVBQNMUQT-OLKPEBQYSA-N;C12 H21 N O4;243.14715;9.426;NA;No matches found;No matches found;DDA for preferred ion
+Toloxatone ;Toloxatone ;NA;D02559;MXUNKHLAEDCYJL-UHFFFAOYSA-N;C11 H13 N O3;207.08946;9.75;NA;No matches found;No matches found;DDA for preferred ion
+Tranexamic Acid;Tranexamic Acid;HMDB0014447;C12535;GYDJEQRTZSCIOI-UHFFFAOYSA-N;C8 H15 N O2;157.11023;1.423;NA;No matches found;No matches found;No MS2
+trans-2-Dodecenoylcarnitine;trans-2-Dodecenoylcarnitine;HMDB0013326;NA;JEOZLTJHDSKQIT-CLVCIHKQSA-N;C19 H35 N O4;341.25609;11.151;NA;No matches found;No matches found;No MS2
+trans-Hexadec-2-enoyl carnitine;trans-Hexadec-2-enoyl carnitine;HMDB0006317;NA;SOYNLLDADLOGAM-ISLYRVAYSA-N;C23 H43 N O4;397.31899;11.955;NA;No matches found;No matches found;DDA for preferred ion
+trans-Piceid;trans-Piceid;HMDB0030564;C10275;HSTZMXCBWJGKHG-CUYWLFDKSA-N;C20 H22 O8;390.13173;10.418;NA;No matches found;No matches found;No MS2
+Traumatic acid;Traumatic acid;HMDB0000933;C16308;MAZWDMBCPDUFDJ-VQHVLOKHSA-N;C12 H20 O4;228.13619;11.012;NA;No matches found;No matches found;DDA for preferred ion
+Traumatin;Traumatin;HMDB0037326;C16309 ;INMKWUNQKOWGEZ-VQHVLOKHSA-N;C12 H20 O3;212.14108;11.128;NA;No matches found;No matches found;No MS2
+Tridecanedioic acid;Tridecanedioic acid;HMDB0002327;NA;DXNCZXXFRKPEPY-UHFFFAOYSA-N;C13 H24 O4;244.16738;11.617;NA;No matches found;No matches found;DDA for preferred ion
+Trifluoroacetic acid;Trifluoroacetic acid;HMDB0014118;NA;DTQVDTLACAAQTR-UHFFFAOYSA-N;C2 H F3 O2;113.99282;0.798;NA;No matches found;No matches found;DDA for preferred ion
+Trimethadione;Trimethadione;HMDB0014491;NA;IRYJRGCIQBGHIV-UHFFFAOYSA-N;C6 H9 N O3;143.05823;0.897;NA;No matches found;No matches found;No MS2
+Troleandomycin;Troleandomycin;HMDB0015448;C12753;LQCLVBQBTUVCEQ-QTFUVMRISA-N;C41 H67 N O15;813.44972;12.157;NA;No matches found;No matches found;No MS2
+Tylvalosin;Tylvalosin;NA;D10032;KCJJINQANFZSAM-HZDSEHBESA-N;C53 H87 N O19;1041.59116;11.603;NA;No matches found;No matches found;No MS2
+Uracil;Uracil;HMDB0000300;C00106 ;ISAKRJDGNUQOIC-UHFFFAOYSA-N;C4 H4 N2 O2;112.02697;0.949;NA;No matches found;No matches found;DDA for preferred ion
+Uric acid;Uric acid;HMDB0000289;C00366;LEHOTFFKMJEONL-UHFFFAOYSA-N;C5 H4 N4 O3;168.02824;1.445;92.1;No matches found;Single match found;DDA for preferred ion
+Valeroidine;Valeroidine;NA;NA;APLLVFVOTXZBFO-RUJICJSRSA-N;C13 H23 N O3;241.1678;11.637;NA;No matches found;No matches found;No MS2
+Valine;Valine;HMDB0000883;C00183;KZSNJWFQEVHDMF-BYPYZUCNSA-N;C5 H11 N O2;117.07885;1.379;96.2;No matches found;Multiple matches found;DDA for preferred ion
+Vanillin;Vanillin;HMDB0012308;C00755 ;MWOOGOJBHIARFG-UHFFFAOYSA-N;C8 H8 O3;152.04728;8.949;NA;No matches found;No matches found;No MS2
+Vigabatrin;Vigabatrin;HMDB0015212;C07500;PJDFLNIOAUIZSL-UHFFFAOYSA-N;C6 H11 N O2;129.07892;0.757;NA;No matches found;No matches found;DDA for preferred ion
+Westiellamide;Westiellamide;NA;C15739;MIDTUAMKJJDHAR-YAWPOEEYSA-N;C27 H42 N6 O6;546.31582;11.078;NA;No matches found;No matches found;No MS2
+Xanthine;Xanthine;HMDB0000292;C00385;LRFVTYWOQMYALW-UHFFFAOYSA-N;C5 H4 N4 O2;152.03329;1.757;86.6;No matches found;Single match found;DDA for preferred ion
+Zeranol;Zeranol;HMDB0032702;C14752;DWTTZBARDOXEAM-UHFFFAOYSA-N;C18 H26 O5;322.17783;11.352;NA;No matches found;No matches found;No MS2

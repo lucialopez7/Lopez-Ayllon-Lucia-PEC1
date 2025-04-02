@@ -1,0 +1,31 @@
+SampleID;Phenotype;Gender
+FCS1;FCS1;Lethal chlorpromazine poisoning;Female
+FCS2;FCS2;Lethal chlorpromazine poisoning;Female
+FCS3;FCS3;Lethal chlorpromazine poisoning;Female
+FCS4;FCS4;Lethal chlorpromazine poisoning;Female
+FCS5;FCS5;Lethal chlorpromazine poisoning;Female
+MCS1;MCS1;Lethal chlorpromazine poisoning;Male
+MCS2;MCS2;Lethal chlorpromazine poisoning;Male
+MCS3;MCS3;Lethal chlorpromazine poisoning;Male
+MCS4;MCS4;Lethal chlorpromazine poisoning;Male
+MCS5;MCS5;Lethal chlorpromazine poisoning;Male
+FCWS1;FCWS1;Non-lethal chlorpromazine poisoning;Female
+FCWS2;FCWS2;Non-lethal chlorpromazine poisoning;Female
+FCWS3;FCWS3;Non-lethal chlorpromazine poisoning;Female
+FCWS4;FCWS4;Non-lethal chlorpromazine poisoning;Female
+FCWS5;FCWS5;Non-lethal chlorpromazine poisoning;Female
+MCWS1;MCWS1;Non-lethal chlorpromazine poisoning;Male
+MCWS2;MCWS2;Non-lethal chlorpromazine poisoning;Male
+MCWS3;MCWS3;Non-lethal chlorpromazine poisoning;Male
+MCWS4;MCWS4;Non-lethal chlorpromazine poisoning;Male
+MCWS5;MCWS5;Non-lethal chlorpromazine poisoning;Male
+FT1;FT1;Control;Female
+FT2;FT2;Control;Male
+FT3;FT3;Control;Male
+FT4;FT4;Control;Male
+FT5;FT5;Control;Male
+MT1;MT1;Control;Male
+MT2;MT2;Control;Female
+MT3;MT3;Control;Female
+MT4;MT4;Control;Female
+MT5;MT5;Control;Female
